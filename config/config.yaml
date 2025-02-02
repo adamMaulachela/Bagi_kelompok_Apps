@@ -1,0 +1,5 @@
+# path releted
+dataraw_path: '/Users/adam/Documents/Projects/Bagi_kelompok_Apps/data/raw/peserta.xlsx'
+dataset: '/Users/adam/Documents/Projects/Bagi_kelompok_Apps/data/processed/peserta.csv'
+dataset_df: '/Users/adam/Documents/Projects/Bagi_kelompok_Apps/data/pickle_file/peserta.pkl'
+kelompok: '/Users/adam/Documents/Projects/Bagi_kelompok_Apps/data/processed/hasil_kelompok.csv'
